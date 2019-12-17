@@ -1,4 +1,7 @@
 site_name: Android Interview
+site_author: NeoSu
+copyright: NeoSu
+use_directory_urls: false
 theme:
     name: mkdocs
     custom_dir: 'my_material'
