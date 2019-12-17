@@ -2,6 +2,74 @@ site_name: Android Interview
 site_author: NeoSu
 copyright: NeoSu
 use_directory_urls: false
+nav:
+  - 主页: 
+    - 'Android最新动态': index.md
+    - '开发面试': soft_basic.md
+    - 'Java基础': java_basic.md
+    - 'Kotlin基础': java_basic.md
+    - 'Android基础面试':
+      - '系统架构': java_basic.md
+      - '四大组件': java_basic.md
+      - 'Fragment': java_basic.md
+      - '常用控件': java_basic.md
+      - '数据处理': java_basic.md
+      - '网络交互': java_basic.md
+    - 'Android进阶面试':
+      - '线程': java_basic.md
+      - '多媒体': java_basic.md
+      - '机制': java_basic.md
+      - '优化': java_basic.md
+      - '异常': java_basic.md
+      - '屏幕适配': java_basic.md
+      - '打包': java_basic.md
+    - 'Android第三方':
+      - '网络库': java_basic.md
+      - '图片库': java_basic.md
+      - '数据库': java_basic.md
+      - '第三方平台': java_basic.md
+    - '源码解读':
+      - '网络库': java_basic.md
+      - '图片库': java_basic.md
+      - '数据库': java_basic.md
+      - '第三方平台': java_basic.md
+    - '数据结构与算法': 
+      - '数组': java_basic.md
+      - '链表': java_basic.md
+      - '栈、队列和哈希': java_basic.md
+      - '二叉树': java_basic.md
+      - '字符串': java_basic.md
+      - '排序': java_basic.md
+      - '其他': java_basic.md
+    - '设计模式': 
+      - '简单工厂模式': java_basic.md
+      - '策略模式': java_basic.md
+      - '单一职责原则': java_basic.md
+      - '开放-封闭原则': java_basic.md
+      - '依赖倒转原则': java_basic.md
+      - '装饰模式': java_basic.md
+      - '代理模式': java_basic.md
+      - '工厂方法模式': java_basic.md
+      - '原型模式': java_basic.md
+      - '模板方法模式': java_basic.md
+      - '迪米特法则': java_basic.md
+      - '外观模式': java_basic.md
+      - '建造者模式': java_basic.md
+      - '观察者模式': java_basic.md
+      - '抽象工厂模式': java_basic.md
+      - '状态模式': java_basic.md
+      - '适配器模式': java_basic.md
+      - '备忘录模式': java_basic.md
+      - '组合模式': java_basic.md
+      - '迭代器模式': java_basic.md
+      - '单例模式': java_basic.md
+      - '桥接模式': java_basic.md
+      - '命令模式': java_basic.md
+      - '职责链模式': java_basic.md
+      - '中介者模式': java_basic.md
+      - '享元模式': java_basic.md
+      - '解释器模式': java_basic.md
+      - '访问者模式': java_basic.md
 theme:
     name: mkdocs
     custom_dir: 'my_material'
