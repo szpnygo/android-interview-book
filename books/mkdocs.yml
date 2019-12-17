@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Android Interview
+theme:
+    name: mkdocs
+    custom_dir: 'my_material'
+    language: zh
+    palette:
+    primary: indigo
+    accent: indigo
+    font:
+      text: Roboto
+      code: Roboto Mono
+    logo:
+      icon: "\uE80C"
+    feature:
+      tabs: true
