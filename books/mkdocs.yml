@@ -4,25 +4,25 @@ copyright: NeoSu
 use_directory_urls: false
 nav:
   - 主页: 
-    - 'Android最新动态': index.md
+    - 'Android最新动态': latest_news.md
     - '开发面试': soft_basic.md
     - 'Java基础': java_basic.md
     - 'Kotlin基础': java_basic.md
     - 'Android基础面试':
-      - '系统架构': java_basic.md
-      - '四大组件': java_basic.md
-      - 'Fragment': java_basic.md
-      - '常用控件': java_basic.md
-      - '数据处理': java_basic.md
-      - '网络交互': java_basic.md
+      - '系统架构': android_basic/system.md
+      - '四大组件': android_basic/four.md
+      - 'Fragment': android_basic/fragment.md
+      - '常用控件': android_basic/widget.md
+      - '数据处理': android_basic/data.md
+      - '网络交互': android_basic/network.md
     - 'Android进阶面试':
-      - '线程': java_basic.md
-      - '多媒体': java_basic.md
-      - '机制': java_basic.md
-      - '优化': java_basic.md
-      - '异常': java_basic.md
-      - '屏幕适配': java_basic.md
-      - '打包': java_basic.md
+      - '线程': android/thread.md
+      - '多媒体': android/media.md
+      - '机制': android/principle.md
+      - '优化': android/optimize.md
+      - '异常': android/exception.md
+      - '屏幕适配': android/fit.md
+      - '打包': android/pack.md
     - 'Android第三方':
       - '网络库': java_basic.md
       - '图片库': java_basic.md
