@@ -4,7 +4,7 @@ copyright: NeoSu
 use_directory_urls: false
 nav:
   - 主页: 
-    - 'Android最新动态': latest_news.md
+    - 'Android最新动态': index.md
     - '开发面试': soft_basic.md
     - 'Java基础': java_basic.md
     - 'Kotlin基础': java_basic.md
